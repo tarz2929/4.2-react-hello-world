@@ -9,6 +9,11 @@ import Hello from './components/Hello';
 ReactDOM.render(
   <React.StrictMode>
     < Hello/>
+    < Hello/>
+    < Hello/>
+    < Hello/>
+    < Hello/>
+
   </React.StrictMode>,
   document.getElementById('root')
 );
